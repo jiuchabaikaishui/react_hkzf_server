@@ -6,7 +6,7 @@ module.exports = {
   // 用户名
   user: 'root',
   // 密码
-  pass: 'root',
+  pass: 'admin123',
   // 端口号
   port: 3306,
   // 数据库名
