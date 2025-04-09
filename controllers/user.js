@@ -70,7 +70,7 @@ module.exports = {
             where: {
                 userName: username,
                 userPass: password,
-                userLock: false
+                // userLock: false
             }
         });
 
